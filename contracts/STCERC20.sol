@@ -1,7 +1,8 @@
 /* SPDX-License-Identifier: MIT
-   TODO: Insert STC Description
-   TODO: Insert STC Description
+    Student Coin is the first crypto platform that allows users to easily design, create, and manage personal, start-up, NFT, and DeFi tokens.
+    The STC Token is an updated contract for 0xb8B7791b1A445FB1e202683a0a329504772e0E52
 */
+
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
