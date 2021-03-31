@@ -7,7 +7,7 @@
 Mainnet: [0x15B543e986b8c34074DFc9901136d9355a537e7E](https://etherscan.io/address/0x15b543e986b8c34074dfc9901136d9355a537e7e)
 Ropsten: [0x15B543e986b8c34074DFc9901136d9355a537e7E](https://ropsten.etherscan.io/address/0x15b543e986b8c34074dfc9901136d9355a537e7e)
 
-# Why?
+# What's this?
 It's an ERC20 token that will replace https://etherscan.io/token/0xb8B7791b1A445FB1e202683a0a329504772e0E52#balances
 
 Key characteristics:
